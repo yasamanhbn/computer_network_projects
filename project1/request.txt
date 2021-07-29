@@ -1,0 +1,7 @@
+at.ac.ir,2,
+aut.ac.ir,3,
+yahoo.com,3,
+google.com,3,
+github.com,1,
+gmail.com,3,
+www.google.com,1,
